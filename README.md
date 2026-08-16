@@ -84,9 +84,9 @@ dental-report-generation/
 
 The trained model weights are available from the following repositories:
 
-- **YOLO-Teeth:** [Kaggle Model Repository](YOUR_YOLO_TEETH_LINK)
-- **YOLO-Disease:** [Kaggle Model Repository](YOUR_YOLO_DISEASE_LINK)
-- **U-Net-ResNet34:** [Kaggle Model Repository](YOUR_UNET_LINK)
+- **YOLO-Teeth:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-teeth/)
+- **YOLO-Disease:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-disease/)
+- **U-Net-ResNet34:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/unet-resnet34/)
 
 
 
