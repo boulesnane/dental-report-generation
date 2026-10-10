@@ -68,7 +68,7 @@ dental-report-generation/
 ├── stage2_report/
 │   ├── Expert Evaluation.ipynb
 │   ├── LLM-as-a-Judge Evaluation.ipynb
-│   └── vlm-code.ipynb
+│   
 │
 ├── figures/
 │   └── framework.png
@@ -84,9 +84,9 @@ dental-report-generation/
 
 The trained model weights are available from the following repositories:
 
-- **YOLO-Teeth:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-teeth/)
-- **YOLO-Disease:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-disease/)
-- **U-Net-ResNet34:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/unet-resnet34/)
+- **YOLO-Teeth:** Contact us at [aboulesnane@univ-constantine3.dz](mailto:aboulesnane@univ-constantine3.dz)
+- **YOLO-Disease:** Contact us at [aboulesnane@univ-constantine3.dz](mailto:aboulesnane@univ-constantine3.dz)
+- **U-Net-ResNet34:** Contact us at [aboulesnane@univ-constantine3.dz](mailto:aboulesnane@univ-constantine3.dz)
 
 
 
@@ -97,6 +97,7 @@ datasets:
 
 - **DENTEX:** [Hugging Face Dataset](https://huggingface.co/datasets/ibrahimhamamci/DENTEX)
 - **Niihhaa:** [Zenodo Dataset](https://zenodo.org/records/10538750)
+- **ADCD:** [Zenodo Dataset](https://zenodo.org/records/15487430)
 
 The datasets are not included in this repository. Users should download
 or access the datasets from their respective sources and configure the
@@ -135,4 +136,15 @@ If you use this code or the proposed framework in your research, please
 cite the associated article:
 
 ```bibtex
-% Paste the BibTeX reference here
+@Article{electronics4578185,
+AUTHOR = {Abdennour Boulesnane, Farah Bouart, Souham Meshoul, Rabah Boussalia, Mohamed Batouche, Ismahane Lebeze and Imen Benhamada},
+TITLE = {A Dual-Stage Vision-Language Framework for Dental Report Generation},
+JOURNAL = {Electronics},
+VOLUME = {},
+YEAR = {2026},
+NUMBER = {},
+ARTICLE-NUMBER = {},
+URL = {https://www.mdpi.com/},
+ISSN = {2079-9292},
+DOI = {}
+}
