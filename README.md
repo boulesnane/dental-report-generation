@@ -145,6 +145,6 @@ YEAR = {2026},
 NUMBER = {},
 ARTICLE-NUMBER = {},
 URL = {https://www.mdpi.com/},
-ISSN = {2079-9292},
+ISSN = {},
 DOI = {}
 }
