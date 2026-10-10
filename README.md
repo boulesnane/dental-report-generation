@@ -57,26 +57,18 @@ dental-report-generation/
 │
 ├── stage1_vision/
 │   ├── tooth_detection/
-│   │   └── yolo-teeth-model.ipynb
-│   │   └── fold4_val_teeth.json
+│   │   └── Yolo_teeth.ipynb
 │   │
 │   ├── pathology_detection/
 │   │   └── Yolo-disease.ipynb
-│   │   └── best_fold5_val.json
 │   │
 │   └── segmentation/
-│   │  └── U-Net-ResNet34.ipynb
-│   │
-│   └── ablation-of-the-lesion-tooth-association-score.ipynb
-│   │
-│   │
-│   └── confidence-threshold-ablation.ipynb
-│ 
-│ 
+│       └── U-Net-ResNet34.ipynb
+│
 ├── stage2_report/
 │   ├── Expert Evaluation.ipynb
 │   ├── LLM-as-a-Judge Evaluation.ipynb
-│   └── stage2-vlms-yolos.ipynb
+│   └── vlm-code.ipynb
 │
 ├── figures/
 │   └── framework.png
@@ -92,7 +84,7 @@ dental-report-generation/
 
 The trained model weights are available from the following repositories:
 
-- **YOLO-Teeth:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/bestyoloteethfliplr0/)
+- **YOLO-Teeth:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-teeth/)
 - **YOLO-Disease:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/yolo-disease/)
 - **U-Net-ResNet34:** [Kaggle Model Repository](https://www.kaggle.com/models/boulesnane/unet-resnet34/)
 
@@ -104,7 +96,6 @@ The experiments use the following publicly available dental imaging
 datasets:
 
 - **DENTEX:** [Hugging Face Dataset](https://huggingface.co/datasets/ibrahimhamamci/DENTEX)
-- **ADCD:** [Zenodo Dataset](https://zenodo.org/records/15487430)
 - **Niihhaa:** [Zenodo Dataset](https://zenodo.org/records/10538750)
 
 The datasets are not included in this repository. Users should download
