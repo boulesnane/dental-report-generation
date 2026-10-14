@@ -136,15 +136,15 @@ If you use this code or the proposed framework in your research, please
 cite the associated article:
 
 ```bibtex
-@Article{electronics4578185,
-AUTHOR = {Abdennour Boulesnane, Farah Bouart, Souham Meshoul, Rabah Boussalia, Mohamed Batouche, Ismahane Lebeze and Imen Benhamada},
-TITLE = {A Dual-Stage Vision-Language Framework for Dental Report Generation},
+@Article{electronics15204729,
+AUTHOR = {Boulesnane, Abdennour and Bouart, Farah and Meshoul, Souham and Boussalia, Rabah and Batouche, Mohamed and Lebeze, Ismahane and Benhamada, Imen},
+TITLE = {A Dual-Stage Vision–Language Framework for Dental Report Generation},
 JOURNAL = {Electronics},
-VOLUME = {},
+VOLUME = {15},
 YEAR = {2026},
-NUMBER = {},
-ARTICLE-NUMBER = {},
-URL = {https://www.mdpi.com/},
-ISSN = {},
-DOI = {}
+NUMBER = {20},
+ARTICLE-NUMBER = {4729},
+URL = {https://www.mdpi.com/2079-9292/15/20/4729},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics15204729}
 }
